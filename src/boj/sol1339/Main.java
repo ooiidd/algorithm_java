@@ -1,8 +1,7 @@
-package sol1339;
+package boj.sol1339;
 
 import java.io.*;
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.StringTokenizer;
 
 public class Main {

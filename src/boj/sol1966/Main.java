@@ -1,4 +1,4 @@
-package sol1966;
+package boj.sol1966;
 
 import java.util.Deque;
 import java.util.LinkedList;

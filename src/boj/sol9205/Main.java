@@ -1,7 +1,6 @@
-package sol9205;
+package boj.sol9205;
 
 import java.util.LinkedList;
-import java.util.List;
 import java.util.Scanner;
 
 class Point{

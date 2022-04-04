@@ -1,4 +1,4 @@
-package sol5582;
+package boj.sol5582;
 
 import java.util.Scanner;
 

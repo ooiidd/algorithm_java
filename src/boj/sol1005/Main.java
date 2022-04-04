@@ -1,4 +1,4 @@
-package sol1005;
+package boj.sol1005;
 
 import java.io.*;
 import java.util.*;

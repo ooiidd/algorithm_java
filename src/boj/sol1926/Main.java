@@ -1,7 +1,6 @@
-package sol1926;
+package boj.sol1926;
 
 import java.io.*;
-import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;

@@ -1,4 +1,4 @@
-package sol20309;
+package boj.sol20309;
 
 import java.io.*;
 import java.util.StringTokenizer;

@@ -1,7 +1,6 @@
-package sol1717;
+package boj.sol1717;
 
 import java.io.*;
-import java.util.Scanner;
 import java.util.StringTokenizer;
 
 class Node{

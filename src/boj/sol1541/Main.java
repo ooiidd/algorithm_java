@@ -1,4 +1,4 @@
-package sol1541;
+package boj.sol1541;
 
 import java.util.*;
 
