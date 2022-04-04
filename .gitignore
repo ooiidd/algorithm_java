@@ -1,0 +1,6 @@
+/src/test/
+*.iml
+*.xml
+*.class
+/out
+.idea/
